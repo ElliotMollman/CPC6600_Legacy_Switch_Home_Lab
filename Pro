@@ -1,0 +1,7 @@
+#This is my home lab which I have created using some lagacy technology. I am using a chassis which will be used as a server.
+
+#---CONFIGURING COMPACTPCI---
+# After reinstalling Red Hat Linux distro on the compactPCI, I 
+
+#---CONFIGURING SWITCH/SERVER---
+# Here I am configuring a CPC6600 switch using a legacy laptop running WindowsXP. Since I didn't know the password, I booted into safe mode and reset it. Once logged in, I configured the network information to be connected to my home LAN. Next, using a RJ232 cable, I connected the laptop to the console port on the switch. Using 
